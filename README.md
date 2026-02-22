@@ -23,10 +23,15 @@ Esta es la versión definitiva que incluye todo el contenido que los clones actu
 * **Multijugador Funcional:** Soporte para salas Online (vía código), Servidores Globales y modo LAN (Local).
 * **Creador de Mundos:** Diseña tus propios niveles y prueba personajes bloqueados mediante los Power-Ups de energía.
 
-## 📥 Instalación
-1. Descarga el archivo APK de este repositorio.
-2. Activa "Orígenes desconocidos" en los ajustes de tu Android.
-3. ¡Instala y entra al multiverso Stickman!
+---
+
+## 📥 ¿Cómo descargar el juego?
+Para obtener el APK de forma segura, sigue estos pasos:
+
+1. Ve a la sección de **[Releases (Lanzamientos)](https://github.com/leonelb2840-design/Stick-Man-The-Fight/releases/tag/2.0.51)**.
+2. Baja hasta el apartado que dice **Assets**.
+3. Haz clic en el archivo llamado **`Stick.Man.The.Fight.apk`**.
+4. ¡La descarga comenzará automáticamente!
 
 ---
 
