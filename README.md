@@ -1,11 +1,9 @@
 # Stick-Man-The-Fight
 Repositorio de preservación de 
-# Stickman The Fight (Versión 2.0.51)
-![Portada del Juego](https://github.com/leonelb2840-design/Stick-Man-The-Fight/raw/main/2ad24d63480ed653d6e408ae35a38fe3_fgraphic.jpg)
-
 Stickman The Fight (Versión 2.0.51). Rescaté la última versión funcional de Cheshirex con +100 personajes y todos los modos historia tras su eliminación de la Play Store. Subido por LeonelB2840 OFFICIAL 2.0
 # Stickman The Fight (Versión 2.0.51) - By Cheshirex
-
+# Stickman The Fight (Versión 2.0.51)
+![Portada del Juego](https://github.com/leonelb2840-design/Stick-Man-The-Fight/raw/main/2ad24d63480ed653d6e408ae35a38fe3_fgraphic.jpg)
 ¡Bienvenido al repositorio de preservación de **Stickman The Fight**! 🚀
 
 Este repositorio ha sido creado para asegurar que la comunidad pueda seguir disfrutando de la versión más completa y estable de este juegazo. **He logrado rescatar y preservar esta versión (2.0.51)**, ya que es la última funcional de Cheshirex y lamentablemente fue eliminada de tiendas oficiales como Google Play Store. 
